@@ -1,3 +1,5 @@
+[RU](https://github.com/dobrosketchkun/rukor/blob/main/README.md) / 러우 / [EN](https://github.com/dobrosketchkun/rukor/blob/main/README_EN.md)
+
 애톹 러예포서이토러이여 솓예러짙 ㅍ러오돌졘이예 애ㅋㅅ폐러이몐토버 ㅅ 핏에몐놋테유 러우ㅅㅅ콕오 야서으카, 캌 낲러이몌러 [rulat](https://github.com/dobrosketchkun/rulatwiki) 이 [abominoto sans](https://github.com/dobrosketchkun/Abominoto-Sans). 버돟노버예니예ㅁ ㅅ탈오 버이뎨오 [How Korea's alphabet is saving an Indonesian dialect](https://www.youtube.com/watch?v=0dtTBDEXVYY)
 
 솝ㅅㅌ버예ㄴ노, 서아핏에 러우ㅅㅅ콕오 야서으카 ㅍ러이 폼오찌 한글에:
