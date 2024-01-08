@@ -2,7 +2,7 @@
 
 This repository contains continuing experiments with Russian scripts such as [rulat](https://github.com/dobrosketchkun/rulatwiki) and [abominoto sans](https://github.com/dobrosketchkun/Abominoto-Sans). The inspiration was the video [How Korea's alphabet is saving an Indonesian dialect](https://www.youtube.com/watch?v=0dtTBDEXVYY).
 
-The recording of the Russian language using Hangul:
+The transcription of the Russian language using Hangul:
 
 ![alt text](table.jpg "Title")
 
