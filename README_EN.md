@@ -10,12 +10,12 @@ I tried to make the matches as logical as possible, but some solutions were made
 
 ### Example:
 
-``Alice was tired of sitting on the hillside next to her sister and doing nothing. ```
+```Alice was tired of sitting on the hillside next to her sister and doing nothing. ```
 
-````아리세 나도여로 시데테 나 ㅍ러이고러케 러야돔 ㅅ 솃ㅌ러오여 이 니쳬고 녜 뎨로테.```''
+```아리세 나도여로 시데테 나 ㅍ러이고러케 러야돔 ㅅ 솃ㅌ러오여 이 니쳬고 녜 뎨로테.```
 
 Another spelling variant:
 
-````아릿예 낟오예로 싣예테 나 ㅍ러이고러켸 러야돔 ㅅ 솃ㅌ러오여 이 닟예고 녜 뎰아테.```''
+```아릿예 낟오예로 싣예테 나 ㅍ러이고러켸 러야돔 ㅅ 솃ㅌ러오여 이 닟예고 녜 뎰아테.```
 
 It can be obtained using the script [rukor.py](https://github.com/dobrosketchkun/rukor/blob/main/rukor.py)
