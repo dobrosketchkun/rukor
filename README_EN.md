@@ -10,7 +10,7 @@ I tried to make the matches as logical as possible, but some solutions were made
 
 ### Example:
 
-```Alice was tired of sitting on the hillside next to her sister and doing nothing. ```
+```Алисе надоело сидеть на пригорке рядом с сестрой и ничего не делать.```
 
 ```아리세 나도여로 시데테 나 ㅍ러이고러케 러야돔 ㅅ 솃ㅌ러오여 이 니쳬고 녜 뎨로테.```
 
