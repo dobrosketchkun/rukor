@@ -19,3 +19,5 @@ Another spelling variant:
 ```아릿예 낟오예로 싣예테 나 ㅍ러이고러켸 러야돔 ㅅ 솃ㅌ러오여 이 닟예고 녜 뎰아테.```
 
 It can be obtained using the script [rukor.py](https://github.com/dobrosketchkun/rukor/blob/main/rukor.py)
+
+In addition to using a Python script, one can gain an understanding of the script by using a [userscript](https://github.com/dobrosketchkun/rukor/blob/main/tampermonkey_userscript_rukor.js) for [Tampermonkey](https://www.tampermonkey.net/) or its equivalents.
