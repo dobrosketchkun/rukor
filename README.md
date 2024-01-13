@@ -20,3 +20,5 @@ RU / [러우](https://github.com/dobrosketchkun/rukor/blob/main/README_KR.md) / 
 ```아릿예 낟오예로 싣예테 나 ㅍ러이고러켸 러야돔 ㅅ 솃ㅌ러오여 이 닟예고 녜 뎰아테.```
 
 Он может быть получен при помощи скрипта [rukor.py](https://github.com/dobrosketchkun/rukor/blob/main/rukor.py)
+
+Помимо использования Python скрипта, можно получить представление о письменности используя [userscript](https://github.com/dobrosketchkun/rukor/blob/main/tampermonkey_userscript_rukor.js) для [Tampermonkey](https://www.tampermonkey.net/) или аналогов.
