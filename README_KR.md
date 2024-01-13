@@ -19,3 +19,5 @@
 ```아릿예 낟오예로 싣예테 나 ㅍ러이고러켸 러야돔 ㅅ 솃ㅌ러오여 이 닟예고 녜 뎰아테.```
 
 오ㄴ 몾예ㅌ 븥에 폴우쳰 ㅍ러이 폼오찌 ㅅㅋ러이ㅍ타 [rukor.py](https://github.com/dobrosketchkun/rukor/blob/main/rukor.py)
+
+폼이모 이ㅅ폴에서오버아니야 Python ㅅㅋ러이ㅍ타, 몾노 폴우칱에 ㅍ러예ㄷㅅ타버롄이예 오 핏에몐놋티 이ㅅ폴에서우야 [userscript](https://github.com/dobrosketchkun/rukor/blob/main/tampermonkey_userscript_rukor.js) ㄷ랴 [Tampermonkey](https://www.tampermonkey.net/) 이리 아날오고버.
