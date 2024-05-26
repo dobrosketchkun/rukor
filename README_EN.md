@@ -12,9 +12,10 @@ I tried to make the matches as logical as possible, but some solutions were made
 
 ```Алисе надоело сидеть на пригорке рядом с сестрой и ничего не делать.```
 
+v2:   
 ```아리세 나도여로 시데테 나 ㅍ러이고러케 러야돔 ㅅ 솃ㅌ러오여 이 니쳬고 녜 뎨로테.```
 
-Another spelling variant:
+Another spelling variant (v1):
 
 ```아릿예 낟오예로 싣예테 나 ㅍ러이고러켸 러야돔 ㅅ 솃ㅌ러오여 이 닟예고 녜 뎰아테.```
 
